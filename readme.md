@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : inspiracionviaytera
+**Titulo** : Via y Tera
 
 **Web:**   (url github.io)
 
