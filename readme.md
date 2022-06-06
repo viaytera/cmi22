@@ -100,13 +100,13 @@ Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáti
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Hice várias escenas que no estan en la secuencia del video juego así como várias películas y ahora resulta un poco complicado ordenarlas.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+ El tiempo para tanto contenido nuevo y con un progrma desconocido para todos que preguntamos - no lo se si es muy antiguo ya - Creo que hay programas actuales dónde quitaría problemas de programación y podría ser mucho mas motivador.
 
 
 
@@ -118,13 +118,13 @@ Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáti
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los he puesto con "vida" -caminando, etc - divertindo a los niños.Video juego. Fue inspirado en mí - no hay referencia para crearlos.
 
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
 * Imágenes:  
-* Tipografía
+* Tipografía:
 
 **Herramientas utilizadas**
 
@@ -137,4 +137,4 @@ Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáti
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
