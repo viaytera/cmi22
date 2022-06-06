@@ -127,7 +127,7 @@ Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los 
            Deja Vu - Mr Smith - mp3  - editada
            
 * Imágenes:  
-* Tipografía: Pirata of  the se     bublles
+* Tipografía: Pirata of  the seaside bublles
 
 **Herramientas utilizadas**
 
