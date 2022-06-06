@@ -77,8 +77,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 **Motivación de la propuesta** 
-Empezó al azar con la creación desde mi imaginacíon de 2 amigos imaginários creados en photoshop que perderan sus mascotas y piden ayuda para encontrarlas.
-Este  proyecto es interesante porque no esta echo como la mayoria de los videos juegos - es diferente.  
+Empezó al azar con la creación  de 2 amigos imaginários creados en photoshop que perderan sus mascotas ( creados mucho despúes) y que piden ayuda para encontrarlas.
+Este  videojuego para niños es interesante porque no esta echo como la mayoria de los videos juegos - es diferente.  
 
 
 
@@ -99,8 +99,8 @@ Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáti
 
 
 ### Etapa 3: Problemas identificados
-
-Hice várias escenas que no estan en la secuencia del video juego así como várias películas y ahora resulta un poco complicado ordenarlas.
+El primero es que no si puede ver la pantalla bien . nitidez ----- la rapidez devido al contenido de toda asigntura es demasiado amplio para trabajar de forma placentera en la creacíon en hippani.
+Hice várias escenas que no estan en la secuencia del video juego así como várias películas y ahora resulta un poco complicado ordenarlas. El programa da error y la solución muchas veces es deconocida el que nos hace parar - no avanzar.
 
 
 
