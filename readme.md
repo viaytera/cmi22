@@ -14,9 +14,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  De Souza, Magda Edite
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este es un video juego infantil con los personajes Via y Tera (autovia y carretera) que perderan sus mascotas  y hay que encontrarlas . Las mascotas son especiales porque son dibujadas y son excéntricas y muy diferentes de cualquier otras mascota que haya visto.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  video juego infantil
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
