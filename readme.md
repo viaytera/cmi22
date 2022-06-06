@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   Google Chrome 
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:**   MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -80,27 +80,23 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque no esta echo como la mayoria de delos videos juegos - es diferentes. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a publico infantil
 
 
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
+Início conlos amigos  Via y Tera personajes creados por mí - son muy simpáticos , alegres -oy diferentes . Existen várias mascotas exóticas que son tb dibujos mios con aparencia distintas del que conocemos como mascotas . El juego esta en adiviñar porque Via y Tera tienen este nobre ..... ¿Sabe dónde viven?........kkkkkk
+después de 2 niveles 
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
 
 
 
