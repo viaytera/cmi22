@@ -18,7 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  video juego infantil
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   Google Chrome 
 
-**Tamaño proyecto:**   MB 
+**Tamaño proyecto:**   
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -34,9 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (Github):
 
-- Github:
-- Twitter
-- Instagram
+
 
 
 (https://github.com/                 )
@@ -55,7 +53,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
@@ -71,16 +69,16 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Portfolio 
+ 
 
 
 
 **Motivación de la propuesta** 
-
-Este  proyecto es interesante porque no esta echo como la mayoria de delos videos juegos - es diferentes. 
+Empezó al azar con la creación desde mi imaginacíon de 2 amigos imaginários creados en photoshop que perderan sus mascotas y piden ayuda para encontrarlas.
+Este  proyecto es interesante porque no esta echo como la mayoria de los videos juegos - es diferente.  
 
 
 
@@ -93,8 +91,8 @@ Este  proyecto es interesante porque no esta echo como la mayoria de delos video
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
-Início conlos amigos  Via y Tera personajes creados por mí - son muy simpáticos , alegres -oy diferentes . Existen várias mascotas exóticas que son tb dibujos mios con aparencia distintas del que conocemos como mascotas . El juego esta en adiviñar porque Via y Tera tienen este nobre ..... ¿Sabe dónde viven?........kkkkkk
-después de 2 niveles 
+Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáticos , alegres y diferentes . Existen várias mascotas exóticas que son tb dibujos mios con aparencia distintas porque son echo de liñeas a mano alzada sin uso de goma - o sea de una sola vez.Difere del que conocemos como mascotas (perros ,gatos). El juego esta en adiviñar porque Via y Tera tienen este nombre ..... ¿Sabe dónde viven?........kkkkkk.........exiten 2 niveles depués dónde hay que pinchar en imágenes y botones para encontrar dentre 7 - 2 mascotas - El premio.........es............Mistério kkkkkkkkkkk   juegas y verás. 
+
 
 
 
