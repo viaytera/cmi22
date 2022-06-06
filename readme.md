@@ -122,9 +122,12 @@ Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  Independent Music Licensing Collective (IMLC) - Get Down - mp3 - editada
+           Shaolin Dub - Creepers - mp3 - editada
+           Deja Vu - Mr Smith - mp3  - editada
+           
 * Imágenes:  
-* Tipografía:
+* Tipografía: Pirata of  the se     bublles
 
 **Herramientas utilizadas**
 
