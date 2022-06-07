@@ -51,8 +51,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
-
-
+https://hippani.com/?S=AnimatorHelp&Language=Spanish
+ 
 
 
 
@@ -107,7 +107,7 @@ Hice várias escenas que no estan en la secuencia del video juego así como vár
 # 4. Conclusiones 
 
  El tiempo para tanto contenido nuevo y con un programa como HIPPANI - desconocido para todos que preguntamos - no lo se si es muy antiguo ya - Creo que hay programas actuales dónde quitaría problemas de programación y podría ser mucho mas motivador.GDevelop,Roblox Studio,GameMaker Studio 2,Clickteam Fusion 2.5,Stencyl,Scratch,Construct 3,Godot Engine,RPG Maker.
- PORQUE NO CREAR EN JAVA??
+ PORQUE NO CREAR EN JAVA?? Algún programa que nos ayuda a tener todos los servicios de Internet activos para poder interactuar con ellos. Este tipo de lenguaje se puede usar en todo tipo de dispositivos y eso ha favorecido su extensión hasta llegar a los dispositivos móviles. 
  
 
 
