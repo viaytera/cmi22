@@ -3,14 +3,11 @@
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
-
 # 1 Datos 
-
-
 
 **Titulo** : Via y Tera
 
-**Web:**   
+**Web:**  :  https://github.com/viaytera/viaytera.github.io
 
 **Autor:**  De Souza, Magda Edite
 
