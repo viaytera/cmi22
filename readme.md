@@ -24,7 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   Google Chrome /móviles android
 
-**Tamaño proyecto:**   esta sendo terminado
+**Tamaño proyecto:**   ...........esta sendo terminado
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
