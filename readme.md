@@ -97,6 +97,7 @@ Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los 
 * Musica:  Independent Music Licensing Collective (IMLC) - Get Down - mp3 - editada
            Shaolin Dub - Creepers - mp3 - editada
            Deja Vu - Mr Smith - mp3  - editada
+           OTRAS MUSICAS Y SONIDOS DE INTERNET.
            
 * Imágenes: Echas en Photoshop , png .creadas por mí - fondo, personajes, todo.
 
@@ -106,7 +107,7 @@ Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los 
 
 - Hippani Animator 5.1
 - Adobe Photoshop CC 2017
-- audacity 3.1.3
+- Audacity 3.1.3
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
