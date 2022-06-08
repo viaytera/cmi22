@@ -22,6 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
+
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 **Probado en:**   Google Chrome 
@@ -32,7 +33,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 06/06/2022
 
-**Medios** (Github):
+**Medios** (Github):https://github.com/viaytera/viaytera.github.io
+INSTAGRAM: https://www.instagram.com/magdaedite/
 
 
 # 2. Memoria del proyecto 
@@ -49,9 +51,6 @@ https://hippani.com/?S=AnimatorHelp&Language=Spanish
  
 
 
-
-
-
 # 3. Metodología
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
@@ -61,8 +60,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** 
 
-- Portfolio 
- 
+- VIDEO JUEGO INFANTIL
 
 
 **Motivación de la propuesta** 
@@ -70,16 +68,14 @@ Empezó al azar con la creación  de 2 amigos imaginários creados en photoshop 
 Este  videojuego para niños es interesante porque no esta echo como la mayoria de los videos juegos - es diferente.  
 
 
-
 **Publico / audiencia**
 
 - Orientado a publico infantil
 
 
-
 ### Etapa 2: Desarrollo / actividades realizadas
 Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáticos , alegres y diferentes . Existen várias mascotas exóticas que son tb dibujos mios con aparencia distintas porque son echo de liñeas a mano alzada sin uso de goma - o sea de una sola vez.Difere del que conocemos como mascotas (perros ,gatos). El juego esta en adiviñar porque Via y Tera tienen este nombre ..... ¿Sabe dónde viven?........kkkkkk.........exiten 2 niveles depués dónde hay que pinchar en imágenes y botones para encontrar dentre 7 - 2 mascotas - El premio.........es............Mistério kkkkkkkkkkk   juegas y verás. 
-
+* menu , gaeria, videos,quiz, músicas, botones, comutador,contador,preguntas.
 
 
 ### Etapa 3: Problemas identificados
@@ -105,7 +101,7 @@ Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los 
            Shaolin Dub - Creepers - mp3 - editada
            Deja Vu - Mr Smith - mp3  - editada
            
-* Imágenes:  
+* Imágenes: Echas en Photoshop , png .creadas por mí - fondo, personajes, todo.
 
 * Tipografía: Pirata of  the seaside bublles
 
@@ -113,9 +109,8 @@ Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los 
 
 - Hippani Animator 5.1
 - Adobe Photoshop CC 2017
+- audacity 3.1.3
 
-
-
-https://creativecommons.org/licenses/?lang=es
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Junio 2022
