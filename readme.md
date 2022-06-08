@@ -17,6 +17,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
+![LOGOTIPO -EDITE ART](https://user-images.githubusercontent.com/106731852/172720442-10a15dac-53cf-4a3c-85a1-15b7b56aa009.gif)
 
 
 
