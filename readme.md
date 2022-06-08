@@ -44,11 +44,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 
-![boceto1](https://github.com/viaytera/viaytera.github.io/blob/master/storyboard%201%20c.jpg)
 
-![boceto2](https://github.com/viaytera/viaytera.github.io/blob/master/storyboard%202c.jpg)
 
-![boceto3](
 
 ### 2.2. Esquema de navegación 
 
