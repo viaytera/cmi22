@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Via y Tera
 
-**Web:**   (url github.io)
+**Web:**   
 
 **Autor:**  De Souza, Magda Edite
 
@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -34,10 +34,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (Github):
 
-
-
-
-(https://github.com/                 )
 
 # 2. Memoria del proyecto 
 
@@ -56,13 +52,9 @@ https://hippani.com/?S=AnimatorHelp&Language=Spanish
 
 
 
-
-
-
 # 3. Metodología
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
 
 
 ### Etapa 1: Ideación de proyecto
@@ -71,7 +63,6 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 - Portfolio 
  
-
 
 
 **Motivación de la propuesta** 
@@ -86,13 +77,8 @@ Este  videojuego para niños es interesante porque no esta echo como la mayoria 
 
 
 
-
-
 ### Etapa 2: Desarrollo / actividades realizadas
 Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáticos , alegres y diferentes . Existen várias mascotas exóticas que son tb dibujos mios con aparencia distintas porque son echo de liñeas a mano alzada sin uso de goma - o sea de una sola vez.Difere del que conocemos como mascotas (perros ,gatos). El juego esta en adiviñar porque Via y Tera tienen este nombre ..... ¿Sabe dónde viven?........kkkkkk.........exiten 2 niveles depués dónde hay que pinchar en imágenes y botones para encontrar dentre 7 - 2 mascotas - El premio.........es............Mistério kkkkkkkkkkk   juegas y verás. 
-
-
-
 
 
 
@@ -101,18 +87,11 @@ El primero es que no si puede ver la pantalla bien . nitidez ----- la rapidez de
 Hice várias escenas que no estan en la secuencia del video juego así como várias películas y ahora resulta un poco complicado ordenarlas. El programa da error y la solución muchas veces es deconocida el que nos hace parar - no avanzar.
 
 
-
 # 4. Conclusiones 
 
  El tiempo para tanto contenido nuevo y con un programa como HIPPANI - desconocido para todos que preguntamos - no lo se si es muy antiguo ya - Creo que hay programas actuales dónde quitaría problemas de programación y podría ser mucho mas motivador.GDevelop,Roblox Studio,GameMaker Studio 2,Clickteam Fusion 2.5,Stencyl,Scratch,Construct 3,Godot Engine,RPG Maker.
  PORQUE NO CREAR EN JAVA?? Algún programa que nos ayuda a tener todos los servicios de Internet activos para poder interactuar con ellos. Este tipo de lenguaje se puede usar en todo tipo de dispositivos y eso ha favorecido su extensión hasta llegar a los dispositivos móviles. 
  
-
-
- 
-
-
-
 
 # 5 Referencias 
 
@@ -127,16 +106,15 @@ Mi referencia esta en que creé este 2 personajes desde hace 1 año y ahora los 
            Deja Vu - Mr Smith - mp3  - editada
            
 * Imágenes:  
+
 * Tipografía: Pirata of  the seaside bublles
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop CC 2017
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
