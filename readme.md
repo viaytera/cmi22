@@ -72,8 +72,8 @@ Este  videojuego para niños es interesante porque no esta echo como la mayoria 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
-Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáticos , alegres y diferentes . Existen várias mascotas exóticas que son tb dibujos mios con aparencia distintas porque son echo de liñeas a mano alzada sin uso de goma - o sea de una sola vez.Difere del que conocemos como mascotas (perros ,gatos). El juego esta en adiviñar porque Via y Tera tienen este nombre ..... ¿Sabe dónde viven?........kkkkkk.........exiten 2 niveles depués dónde hay que pinchar en imágenes y botones para encontrar dentre 7 - 2 mascotas - El premio.........es............Mistério kkkkkkkkkkk   juegas y verás. 
-* menu , gaeria, videos,quiz, músicas, botones, comutador,contador,preguntas.
+Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáticos , alegres y diferentes . Existen várias mascotas exóticas que son tb dibujos mios con aparencia distintas porque son echos de liñeas a mano alzada sin uso de goma - o sea de una sola vez.Difere del que conocemos como mascotas (perros ,gatos). El juego esta en adiviñar porque Via y Tera tienen este nombre ..... ¿Sabe dónde viven?........exiten 2 niveles después dónde hay que pinchar en imágenes y botones para encontrar dentre 7 - 2 mascotas - El premio......es.......Mistério - juegas y verás. 
+* menu , galeria, videos,quiz, músicas, botones, comutador,contador,preguntas.
 
 
 ### Etapa 3: Problemas identificados
