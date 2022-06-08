@@ -77,8 +77,9 @@ Inició con los amigos  Via y Tera personajes creados por mí - son muy simpáti
 
 
 ### Etapa 3: Problemas identificados
-El primero es que no si puede ver la pantalla bien . nitidez ----- la rapidez devido al contenido de toda asigntura es demasiado amplio para trabajar de forma placentera en la creacíon en hippani.
-Hice várias escenas que no estan en la secuencia del video juego así como várias películas y ahora resulta un poco complicado ordenarlas. El programa da error y la solución muchas veces es deconocida el que nos hace parar - no avanzar.
+El primero es que no si puede ver en clase a la pantalla no me entero porque no veo -siento en la primera silla, pierdo la secuencia y nitidez .
+La rapidez devido al contenido de toda asignatura es demasiado amplio para trabajar de forma placentera en la creacíon en Hippani.Exige conocimientos de de programación - informática. Veo necesario tener un asistente del profesor en aula .
+Hice várias escenas que no estan en la secuencia del video juego, así como várias películas y ahora resulta un poco complicado ordenarlasy unirlas . El programa da error y la solución muchas veces es deconocida el que nos hace parar - no avanzar.
 
 
 # 4. Conclusiones 
