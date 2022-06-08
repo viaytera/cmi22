@@ -20,10 +20,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![LOGOTIPO -EDITE ART](https://user-images.githubusercontent.com/106731852/172720442-10a15dac-53cf-4a3c-85a1-15b7b56aa009.gif)
 
 
-
-
 **Resolución:** 800x600px responsivo/o tamaño fijo y reescalable
-**Probado en:**   Google Chrome /móvies android
+
+**Probado en:**   Google Chrome /móviles android
 
 **Tamaño proyecto:**   esta sendo terminado
 
@@ -39,6 +38,7 @@ INSTAGRAM: https://www.instagram.com/magdaedite/
 
 ### 2.1 Storyboard: 
 
+![storyboard completo](https://user-images.githubusercontent.com/106731852/172721978-b84df5d5-e4e4-4a36-86c7-48b212acf3ea.jpg)
 
 
 
