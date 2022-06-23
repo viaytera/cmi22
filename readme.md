@@ -9,6 +9,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**  :  https://github.com/viaytera/viaytera.github.io
 
+**Juego** : https://viaytera.github.io
+
 **Autor:**  De Souza, Magda Edite
 
 **Resumen** : Este es un video juego infantil con los personajes Via y Tera (autovia y carretera) que perderan sus mascotas  y hay que encontrarlas . Las mascotas son especiales porque son dibujadas y son excéntricas y muy diferentes de cualquier otras mascota que haya visto.
